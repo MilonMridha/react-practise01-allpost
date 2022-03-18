@@ -36,14 +36,3 @@
     transform: rotate(360deg);
   }
 }
-.single-post{
-  background-color: cornflowerblue;
-  margin: 10px;
-  border: 2px solid red;
-  border-radius: 20px;
-}
-    
-.all-post{
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-}
